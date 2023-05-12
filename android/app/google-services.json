@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1095912822490",
+    "project_id": "vraa-30b7f",
+    "storage_bucket": "vraa-30b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095912822490:android:539c0d2a7a9dfeb3bd77e3",
+        "android_client_info": {
+          "package_name": "com.vraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095912822490-opcrro7uqhhdubiu9dcddm1ab5rg2md7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9xtTfHkDAt-KI9kIP7BGwRNyFIXvdlkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095912822490-opcrro7uqhhdubiu9dcddm1ab5rg2md7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095912822490:android:bbb47520c749d3c9bd77e3",
+        "android_client_info": {
+          "package_name": "com.vraapp.vraa_social_shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095912822490-j1dg55bv996qjc8r9sv5653q11n2os5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vraapp.vraa_social_shopping",
+            "certificate_hash": "97202377ffec3c6063d2420af06957120f359a96"
+          }
+        },
+        {
+          "client_id": "1095912822490-opcrro7uqhhdubiu9dcddm1ab5rg2md7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9xtTfHkDAt-KI9kIP7BGwRNyFIXvdlkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095912822490-opcrro7uqhhdubiu9dcddm1ab5rg2md7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
